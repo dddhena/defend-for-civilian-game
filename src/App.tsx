@@ -1,4 +1,4 @@
-import { useState } from 'react';
+import React, { useState } from 'react';
 import { KeyboardControls } from '@react-three/drei';
 // @ts-ignore
 import Game from './components/Game';
